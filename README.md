@@ -1,2 +1,0 @@
-# DecalSyllabus
-assignments and grading 
